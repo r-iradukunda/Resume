@@ -33,15 +33,6 @@ const profileData = {
       {
         category: "Programming Languages",
         topics: ["HTML", "CSS", "JavaScript", "Python"]
-      },
-      {
-        category: "Frameworks / Libraries",
-        topics: [
-          "NodeJS",
-          "Express",
-          "NextJS",
-          "Bootstrap",
-        ]
       }
     ],
     projects: [
